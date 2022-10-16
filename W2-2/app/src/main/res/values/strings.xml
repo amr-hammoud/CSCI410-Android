@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">W2-2</string>
+    <string name="t1">Please Choose One</string>
+    <string-array name="computer_type">
+        <item>Desktop</item>
+        <item>Laptop</item>
+        <item>Server</item>
+        <item>Work Station</item>
+    </string-array>
+    <string name="button1">Ok</string>
+</resources>
